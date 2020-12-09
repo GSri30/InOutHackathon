@@ -1,5 +1,5 @@
 # InOutHackathon
-**Goals**
+## Goals
 - Registration of College
 - Login individual users
 - Register a club
@@ -8,4 +8,11 @@
 - Club info pinboard (Additional)
 -  Notifications (Discord webhook or some other means)
 
-**Possible Tech Stack:** Firebase + React + Bootstrap
+## Running Instructions
+
+- `npm install`
+- `yarn start` or `npm start`
+
+**Tech Stack:** Firebase + React + Bootstrap
+
+
